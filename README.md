@@ -1,4 +1,6 @@
 Neural Hebrew Subject Tagger
+=================================
+|LICENCE|
 
 In the past, the boundary between human and artificial tools was clear. As technology
 evolved, these boundaries have begun to blur. Such tasks, which have hitherto been
