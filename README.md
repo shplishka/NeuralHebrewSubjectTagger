@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ###Neural Hebrew Subject Tagger###
+=======
+Neural Hebrew Subject Tagger
+=================================
+|LICENCE|
+>>>>>>> master
 
 In the past, the boundary between human and artificial tools was clear. As technology
 evolved, these boundaries have begun to blur. Such tasks, which have hitherto been
@@ -24,3 +30,8 @@ The results of the study achieved a high percentage of success. In terms of mode
 Loss function, Bi-LSTM with Attention showed 97.65 percent matching results, the
 LSTM model with Attention presented 0.82 and the GRU with Attention 0.98 percent.
 These results were significantly superior to classical models that exist today in the field.
+
+License
+-------
+
+As it was generated from Hebrew Wikipedia sources, which are licensed under the `CC-BY-SA 3.0`_  license, this corpus is thus also necessarilly licensed under the same license.
