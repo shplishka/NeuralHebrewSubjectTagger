@@ -35,3 +35,6 @@ License
 -------
 
 As it was generated from Hebrew Wikipedia sources, which are licensed under the `CC-BY-SA 3.0`_  license, this corpus is thus also necessarilly licensed under the same license.
+
+.. |LICENCE| image:: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/License-CC-BY-SA-3.0-blue.svg
+  :target: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE
