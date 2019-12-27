@@ -37,5 +37,9 @@ As it was generated from Hebrew Wikipedia sources, which are licensed under the 
 .. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
 
+.. |LICENCE| image:: 
+.. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
 .. |LICENCE| image:: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/License-CC-BY-SA-3.0-blue.svg
   :target: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE
+
