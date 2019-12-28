@@ -40,9 +40,8 @@ CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
 
 
-![image](https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE)
-<img src="https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg">
+![https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)
 
-![image](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)
-	:target: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE
+[![Multiple Top-Level VIs Demo Link](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][MultipleTopLevelVIsDemoLink]
 
+[MultipleTopLevelVIsDemoLink]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
