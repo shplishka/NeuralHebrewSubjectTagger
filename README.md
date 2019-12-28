@@ -3,9 +3,9 @@
 Neural Hebrew Subject Tagger
 =================================
 
-[![licence](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][MultipleTopLevelVIsDemoLink]
+[![Multiple Top-Level VIs Demo Link](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][MultipleTopLevelVIsDemoLink]
 
-[licence]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
+[MultipleTopLevelVIsDemoLink]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
 
 In this project, we focused on the analysis of Hebrew sentences, with the overall purpose
 of researching and developing a unique model capable of identifying the subject in
