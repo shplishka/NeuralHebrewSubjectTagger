@@ -38,6 +38,4 @@ As it was generated from Hebrew Wikipedia sources, which are licensed under the 
 
 CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
-![LICENCE](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)
-
-[MultipleTopLevelVIsDemoLink]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
+[LICENCE]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
