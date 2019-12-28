@@ -3,6 +3,8 @@
 Neural Hebrew Subject Tagger
 =================================
 
+|LICENCE|
+
 In this project, we focused on the analysis of Hebrew sentences, with the overall purpose
 of researching and developing a unique model capable of identifying the subject in
 sentences. Identifying a subject is quite complex, on the one hand, and of great
@@ -36,6 +38,6 @@ As it was generated from Hebrew Wikipedia sources, which are licensed under the 
 
 CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
-[![|LICENCE|](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][|LICENCE|]
+[![LICENCE](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)]
 
 [MultipleTopLevelVIsDemoLink]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
