@@ -1,4 +1,5 @@
 
+
 Neural Hebrew Subject Tagger
 =================================
 |LICENCE|
@@ -26,7 +27,7 @@ Corpus:
 https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/SVLM_Hebrew_Wikipedia_Corpus.txt
 
 Paper:
-https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/Phonemes_freqency_Silber-Varod-Latin-Moyal.pdf
+https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/paper/Neural%20subject%20Tagger.pdf
 
 
 License
@@ -34,8 +35,14 @@ License
 
 As it was generated from Hebrew Wikipedia sources, which are licensed under the `CC-BY-SA 3.0`_  license, this corpus is thus also necessarilly licensed under the same license.
 
-.. _CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
-.. |LICENCE| 
-![image]https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg
-  :target: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE
+
+
+
+![image](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)
+<img src="https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg">
+
+![image](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)
+	:target: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE
+
