@@ -3,7 +3,7 @@
 Neural Hebrew Subject Tagger
 =================================
 
-[![Multiple Top-Level VIs Demo Link](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][licence]
+[![Link](https://github.com/shplishka/NeuralHebrewSubjectTagger/blob/master/licence.svg)][licence]
 
 [licence]: https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/LICENSE/
 
